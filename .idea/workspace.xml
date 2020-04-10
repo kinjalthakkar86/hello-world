@@ -16,8 +16,8 @@
       <file leaf-file-name="firstfile.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/python/test/firstfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="85">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -147,6 +147,21 @@
       <option name="presentableId" value="Default" />
       <updated>1586489125654</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added the third Print statement">
+      <created>1586492131859</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586492131859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added the third Print statement">
+      <created>1586492152953</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586492152953</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -157,9 +172,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" />
       <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50073206" side_tool="true" visible="true" weight="0.32913387" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.647145" weight="0.38425198" />
-      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49926794" visible="true" weight="0.32913387" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.35358712" side_tool="true" visible="true" weight="0.38425198" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6464129" visible="true" weight="0.38425198" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49926794" weight="0.32913387" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -177,11 +192,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added the third Print statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the third Print statement" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/python/test/firstfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
